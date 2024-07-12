@@ -1,0 +1,2 @@
+Polish:
+- Shouldn't be able to turn swap on the Last Turn
